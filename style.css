@@ -520,3 +520,7 @@
     .h3 {
         background-color: green;
     }
+.border {
+        border-left: 10px solid orange;
+        border-right: 10px solid green;
+    }
